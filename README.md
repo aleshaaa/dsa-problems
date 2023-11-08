@@ -1,2 +1,2 @@
-# practice-repo
-Repo for practice 
+# dsa-problems
+Solving DSA problems
